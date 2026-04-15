@@ -1,24 +1,30 @@
 # Customer-Shopping-Trends-Insights-Analysis
 
-📌 Project Overview
+Project Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior. The goal is to support data-driven business decisions through analytics and visualization.
 
 🎯 Objectives
+
 Understand customer purchasing behavior
 Identify high-value and loyal customers
 Analyze product performance and preferences
 Evaluate the impact of discounts and subscriptions
 Provide actionable business recommendations
+
 📂 Dataset Details
+
 Total Records: 3,900+ transactions
-Columns: 18 features
+
 Key Attributes:
+
 Customer demographics (Age, Gender, Location, Subscription Status)
 Purchase details (Item, Category, Amount, Season, Size, Color)
 Behavioral data (Discounts, Purchase Frequency, Ratings, Shipping Type)
 Missing Values: Handled in Review Rating column
-🛠️ Tools & Technologies Used
+
+Tools & Technologies Used
+
 Python (Pandas) – Data cleaning & preprocessing
 PostgreSQL – Business query analysis
 Power BI – Dashboard visualization
@@ -53,12 +59,14 @@ Purchase trends
 Discount and subscription insights
 
 💡 Key Insights
+
 Identified high-value customers and loyal segments
 Found top-performing products and categories
 Analyzed discount-driven purchasing behavior
 Discovered patterns in subscription-based spending
 
 📌 Business Recommendations
+
 Promote subscription plans for repeat customers
 Implement customer loyalty programs
 Optimize discount strategies to balance revenue and profit
@@ -66,13 +74,9 @@ Focus on high-performing products in marketing campaigns
 Target high-revenue customer segments
 
 🚀 Project Link
-👉 
 
-📎 How to Use
-Clone the repository
-Run Python scripts for data preprocessing
-Execute SQL queries in PostgreSQL
-Open Power BI dashboard file to explore insights
+👉 github.com/Ajaysai1802/Customer-Shopping-Trends-Insights-Analysis
+
 
 🙌 Author
 Ajay Sai Goli
